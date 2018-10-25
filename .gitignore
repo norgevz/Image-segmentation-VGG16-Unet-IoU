@@ -1,1 +1,4 @@
 records/
+data/
+model/
+test.py
